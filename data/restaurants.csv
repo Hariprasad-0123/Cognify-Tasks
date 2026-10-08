@@ -1,0 +1,31 @@
+restaurant_name,city,cuisine,rating,review_count,popularity_score
+McDonald's,New York,Burgers,4.2,8200,89
+McDonald's,Chicago,Burgers,4.1,7100,84
+McDonald's,Los Angeles,Burgers,4.3,9600,91
+Starbucks,Seattle,Coffee,4.5,13000,96
+Starbucks,New York,Coffee,4.4,12100,94
+Starbucks,Chicago,Coffee,4.3,9900,90
+Subway,Miami,Sandwiches,4.0,5400,76
+Subway,Boston,Sandwiches,3.9,4800,71
+Subway,San Francisco,Sandwiches,4.1,6200,82
+Pizza Hut,Atlanta,Pizza,4.0,4700,73
+Pizza Hut,Dallas,Pizza,3.8,4200,68
+Pizza Hut,Denver,Pizza,3.9,4500,70
+Domino's,Houston,Pizza,4.2,8900,87
+Domino's,Phoenix,Pizza,4.1,7600,82
+Domino's,Las Vegas,Pizza,4.3,9100,90
+KFC,Orlando,Fried Chicken,4.1,5900,81
+KFC,Austin,Fried Chicken,3.9,5000,74
+KFC,Charlotte,Fried Chicken,4.0,5600,78
+Burger King,Dallas,Burgers,4.0,5100,77
+Burger King,Miami,Burgers,3.9,4700,72
+Burger King,San Diego,Burgers,4.1,5800,80
+Dunkin',Boston,Coffee,4.3,8300,88
+Dunkin',Philadelphia,Coffee,4.2,7700,84
+Dunkin',Chicago,Coffee,4.1,7000,80
+Taco Bell,San Antonio,Tex-Mex,3.8,4300,69
+Taco Bell,Denver,Tex-Mex,3.9,4500,71
+Taco Bell,Los Angeles,Tex-Mex,4.0,5200,75
+Café Coffee Day,Bengaluru,Coffee,4.4,9800,92
+Café Coffee Day,Hyderabad,Coffee,4.3,9100,89
+Café Coffee Day,Mumbai,Coffee,4.2,8700,86
